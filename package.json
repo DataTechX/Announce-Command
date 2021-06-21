@@ -1,0 +1,16 @@
+{
+  "name": "discord.js-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "index.js"
+  },
+  "author": "Looney#0001",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3"
+  }
+}
